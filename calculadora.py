@@ -36,8 +36,8 @@ f = pyfiglet.figlet_format('Sweet', font = 'cosmic')
 while True:
 	clear()
 	print(f'              {a}∆{b} CODED BY {a}∆{b}{G}\n{f}\n   {G}[ MEU NÚMERO: {C}wa.me/5551997773672 {G}]\n\n')
-	n1 = int(input(f'   {a}+{b} 1° VALOR {C}>>> {NF}{CR}'))
-	n2 = int(input(f'{NF}   {a}+{b} 2° VALOR {C}>>> {NF}{CR}'))
+	n1 = int(input(f'   {a}+{b} 1° VALOR {C}>>> '))
+	n2 = int(input(f'   {a}+{b} 2° VALOR {C}>>> '))
 
 #==============> RESULTADOS ↓↓↓
 
